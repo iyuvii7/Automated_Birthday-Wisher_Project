@@ -4,8 +4,8 @@ import random
 import smtplib
 
 PLACE_HOLDER = "[NAME]"
-MY_EMAIL = "iyuvii777@gmail.com"
-PASSWORD = "kniq bobi vkez vjtb"
+MY_EMAIL = "Your email"
+PASSWORD = "Your password"
 
 
 def read_birthday(file_path):
